@@ -4,7 +4,7 @@
 find . -name .DS_Store -print0 | xargs -0 git rm -f --ignore-unmatch
 ```
 
-2. Создаем файл .gitignore в корневой папке, содержимое файла копируем [отсюда](https://github.com/bellabzhu/gitignore-settings/blob/main/.gitignore) 
+2. Создаем файл .gitignore в корневой папке, содержимое файла см. ниже. 
 
 3. Делаем коммит:
 ```
