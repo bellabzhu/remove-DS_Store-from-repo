@@ -43,6 +43,9 @@ Thumbs.db
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
 
+# Visual Studio Code Settings
+.vscode
+
 # Icon must end with two \r
 Icon
 
