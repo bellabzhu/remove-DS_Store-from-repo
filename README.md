@@ -90,3 +90,4 @@ Temporary Items
 *.sql
 *.sqlite
 ```
+На основе ветки на [StackOverFlow] (https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository)
